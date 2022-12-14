@@ -1,4 +1,3 @@
-    https://ibb.co/HC6VZBP
 - 👋 Hi, I’m @prasanth-surya
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning Frontend Development
